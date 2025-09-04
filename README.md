@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @kahnaisehC
-- 👀 I’m interested in backend development, Gophers, Penguins and some cliche love story, you know what I'm talking about
-- 🌱 AS OF RIGHT NOW, I'm learning every day a little bit, throwing some projects here and there. This will pay off, maybe...
+- 🥸 My name is Ian, but people usually call me Ian, because that's my name.
+- 👀 I’m interested in backend development, Gophers, Penguins, Competitive Programming and honey flavoured yerba mate, altho the pomelo one is pretty good also.
+- 🌱 AS OF RIGHT NOW, I'm learning every day a little bit, throwing some projects here and there. 
 ### 📫 How to reach me
 Contact me via my e-mail:
 -     gabianhak@gmail.com
 and the favouriten't social media of every developer:
 -     https://www.linkedin.com/in/ian-hakanson/
-- 😄 Pronouns: Array/Object?
-- ⚡ If I've got a coin for every time I'd got a girlfriend I'd have two coins, which isn't much but it's weird that it happened twice.
+- 😄 Pronouns: NULL/***void/he
+- FUN FACT: I drink water flavoured water!
 
-*the one who borns fCCamper, dies as a Great Developer* - Some very intelligent guy 
-
+- 
+*
