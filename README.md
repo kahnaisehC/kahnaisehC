@@ -9,6 +9,3 @@ and the favouriten't social media of every developer:
 -     https://www.linkedin.com/in/ian-hakanson/
 - 😄 Pronouns: NULL/***void/he
 - FUN FACT: I drink water flavoured water!
-
-- 
-*
